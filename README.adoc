@@ -11,6 +11,7 @@ This library wraps the official implementation of MadgwickAHRS algorithm to get 
 
 == License ==
 
+Copyright (c) Neocadia Labs. All right reserved.
 Copyright (c) Arduino LLC. All right reserved.
 
 This library is free software; you can redistribute it and/or
